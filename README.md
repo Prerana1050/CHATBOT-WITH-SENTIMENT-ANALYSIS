@@ -45,13 +45,5 @@ Negative – general dissatisfaction
 ✔ Final summary after exit  
 ✔ Tests provided  
 ⭐ Bonus Features Included:
-- Emoji-based emotional responses 😄😞
 - Multiple inputs considered for final result
 
-## Folder Structure
-
-
-📂 sentiment-chatbot
-│── app.py
-│── README.md
-│── test_app.py (optional)
